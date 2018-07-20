@@ -21,8 +21,10 @@ import ImagesPicker from 'react-native-esoftplay-images-picker
 ```
 
 ## PROPS
-  images = funtion = A callback to receive images selection 
-  max = number = maximum count images selection
-  color= string = color code for ImagesPicker
-  show = boolean = determine ImagesPicker show or not
-  dismiss = function = function to make props.show = false
+```
+  images  = funtion   = A callback to receive images selection 
+  max     = number    = maximum count images selection
+  color   = string    = color code for ImagesPicker
+  show    = boolean   = determine ImagesPicker show or not
+  dismiss = function  = function to make props.show = false
+```
